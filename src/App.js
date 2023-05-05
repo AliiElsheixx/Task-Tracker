@@ -1,9 +1,10 @@
 import React from "react";
+import HomePage from "./Components/Pages/HomePage"
 
 function App() {
   return (
     <div className="App">
-      <h1>task-tracker</h1>
+      <HomePage />
     </div>
   );
 }
